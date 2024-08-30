@@ -1,7 +1,7 @@
 import {Menu, MenuProps, Modal} from "antd";
 import {useNavigate} from "react-router";
 import {useState} from "react";
-import {useAuth} from "@sofyanardiansyah888/core/src/provider/auth-provider"
+import {useAuth} from "@sofyanardiansyah888/core"
 import {InfoCircleOutlined} from "@ant-design/icons"
 
 

@@ -2,11 +2,6 @@ import {Form, Input} from "antd";
 import {RuleObject, RuleRender} from "rc-field-form/lib/interface";
 
 const { TextArea } = Input;
-export interface IFormSelectValue {
-    value: string,
-    label: string,
-    disabled?: boolean
-}
 
 interface IFormSelect {
     name: string,

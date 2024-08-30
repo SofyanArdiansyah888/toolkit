@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from "react";
 import {Form, FormInstance, Modal} from "antd";
-import {PrintButton} from "../button";
+import {PrintButton} from "../buttons/button.tsx";
 
 
 interface IPrintModal<T> {

@@ -1,8 +1,8 @@
 import React, {ReactNode, useEffect, useState} from "react";
 import {Form, FormInstance, Modal} from "antd";
 import {Scrollbar} from "@radix-ui/react-scroll-area";
-import {ScrollArea} from "../scroll-area";
-import {cn} from "@sofyanardiansyah888/core/src/lib/utils"
+import {ScrollArea} from "../others/scroll-area.tsx";
+import {cn} from "@sofyanardiansyah888/core"
 
 
 interface IFormModal<T> {

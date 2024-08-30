@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from "react";
 import {Form, FormInstance, Modal} from "antd";
-import {FilterButton} from "../button";
+import {FilterButton} from "../buttons/button.tsx";
 
 
 interface IFilterModal<T> {

@@ -3,7 +3,7 @@ import {RuleObject, RuleRender} from "rc-field-form/lib/interface";
 import {SizeType} from "antd/es/config-provider/SizeContext";
 
 
-export interface IFormSelectValue {
+export interface IFormInputValue {
     value: string,
     label: string,
     disabled?: boolean
