@@ -1,5 +1,5 @@
 {
-  "name": "@sofyanardiansyah888/core",
+  "name": "@sofyanardiansyah888/ant-design",
   "private": false,
   "version": "0.0.1",
   "type": "module",
@@ -9,7 +9,11 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
+    "@sofyanardiansyah888/core": "^0.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
