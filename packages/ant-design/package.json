@@ -1,7 +1,7 @@
 {
   "name": "@sofyanardiansyah888/ant-design",
   "private": false,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "main": "src/index.ts",
   "scripts": {
@@ -14,7 +14,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@sofyanardiansyah888/core": "^0.0.3",
+    "@sofyanardiansyah888/core": "^0.0.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
