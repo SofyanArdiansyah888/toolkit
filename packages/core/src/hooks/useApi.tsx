@@ -1,5 +1,4 @@
-// @ts-ignore
-import {create, destroy, getDetail, getList, update} from "@lib/api"
+import {create, destroy, getDetail, getList, update} from "../lib/api"
 import {useMutation, useQuery, useQueryClient} from "@tanstack/react-query";
 
 interface IGet {
