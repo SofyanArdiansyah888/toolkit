@@ -1,5 +1,5 @@
-// @ts-ignore
-import {useAuth} from "@lib/provider/auth-provider";
+
+import {useAuth} from "../provider/auth-provider";
 import { Navigate } from "react-router-dom";
 import {ReactNode} from "react";
 

@@ -1,5 +1,5 @@
-// @ts-ignore
-import { useLocalStorage } from "@hooks/useLocalStorage";
+
+import { useLocalStorage } from "../hooks/useLocalStorage";
 import {createContext, ReactNode, useContext, useMemo} from "react";
 import { useNavigate } from "react-router-dom"
 
